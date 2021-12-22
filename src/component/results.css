@@ -1,0 +1,31 @@
+center {
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+}
+.btn-search {
+    background-color: blue;
+    color: white;
+    margin-left: 5px;
+    border: 1px solid black;
+    height: 35px;
+    width: 90px;
+    display: inline-block;
+    font-family: arial;
+    font-size: 18px;
+}
+.field-input{
+    height: 30px;
+    width: 250px;
+    display: inline-block;
+    font-family: arial;
+    font-size: 14px;
+    border: 1px solid lightgray;
+}
+.content-align{
+    padding-right: 555px;
+    text-align: justify;
+}
+table th{
+    background-color: cornsilk;
+}
