@@ -9,6 +9,7 @@ const ShowResults = () => {
     const [marks, setMarks] = useState('');
     const [errorMessage, setErrorMessage] = useState('');
 
+    console.log("Hello World");
     const handleHallTicketNumber = (event) => {
         event.preventDefault();
         let hallTicket = event.target.value;
