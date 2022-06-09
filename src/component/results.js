@@ -10,6 +10,7 @@ const ShowResults = () => {
     const [errorMessage, setErrorMessage] = useState('');
 
     console.log("Hello World");
+    console.log("hello akhilesh");
     const handleHallTicketNumber = (event) => {
         event.preventDefault();
         let hallTicket = event.target.value;
