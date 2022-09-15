@@ -28,7 +28,7 @@ const ShowResults = () => {
                 .then((result) => {
                     if (result) {
                         resolve(result);
-                    }o  
+                    }
                 })
                 .catch((err) => {
                     reject(err);

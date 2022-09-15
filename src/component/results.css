@@ -29,3 +29,21 @@ center {
 table th{
     background-color: cornsilk;
 }
+
+.print-btn{
+    width: 165px;
+    height: 34px;
+    background-color: #d9534f;
+    border: #d43f3a;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.print-btn-align{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
